@@ -1,4 +1,4 @@
-<img width="1496" height="816" alt="Screenshot 2026-06-06 203246" src="https://github.com/user-attachments/assets/16ff17c3-7f73-4188-9b67-1088c44a1615" /># AgroVerse
+# AgroVerse
 
 AI Powered Smart Farming and Irrigation System
 
