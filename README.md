@@ -18,3 +18,4 @@ AI Powered Smart Farming and Irrigation System
 
 ## Objective
 To help farmers maximize profit and reduce resource wastage using AI and IoT.
+![Uploading AGROVERSE HEART IMAGE.png…]()
